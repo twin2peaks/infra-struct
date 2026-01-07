@@ -1,1 +1,0 @@
-const t="ttps://twin2peaks.github.io/infra-struct";export{t as B};
